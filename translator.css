@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Gloria+Hallelujah&family=Lato:wght@700&family=Montserrat+Subrayada&family=Notable&family=Odibee+Sans&family=Roboto&family=Roboto+Serif:ital,opsz,wght@0,8..144,200;1,8..144,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Gloria+Hallelujah&family=Lato:wght@700&family=Montserrat+Subrayada&family=Notable&family=Odibee+Sans&family=Roboto&family=Roboto+Mono:wght@300&family=Roboto+Serif:ital,opsz,wght@0,8..144,200;1,8..144,300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #552471;
+}
+
+.container .header{
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Montserrat Subrayada', sans-serif;
+    color: #edf;
+    text-shadow: 0px 0.5px 2px rgba(255, 255, 255, 0.436);
+}
+
+.box1{
+    text-align: center;   
+    margin-top: 60px;
+}
+
+
+.box2{
+    text-align: center;          
+}
+
+#text1{
+    width: 500px;
+    height: 200px;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: 'Roboto Mono', monospace;
+    text-align: justify;
+    box-shadow: 0px 0.1px 3px 0.5px rgba(255, 255, 255, 0.436);
+    background-color: rgb(219, 185, 219);
+}
+
+#text2{
+    width: 500px;
+    height: 200px;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: 'Roboto Mono', monospace;
+    text-align: justify;
+    box-shadow: 0px 0.1px 3px 0.5px rgba(255, 255, 255, 0.436);
+    background-color: rgb(219, 185, 219);
+}
+
+button{
+    margin-left: 42%;
+    border-radius: 5px;
+    width: 90px;
+    height: 30px;
+    font-family: 'Montserrat Subrayada', sans-serif;
+    box-shadow: 0px 0.1px 0px 0px rgba(255, 255, 255, 0.952);
+}
+
+button:hover{
+    background-color: rgb(206, 52, 77);
+    color: white;
+}
+
+select{
+    margin: 10px
+    
+}
+
+@media (max-width: 768px) {
+    #text1, #text2 {
+        width: 90%;
+    }
+    button {
+        margin-left: 20%;
+    }
+}
+
+
+
+
+
