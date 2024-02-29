@@ -1,1 +1,1 @@
-<img src="/home/ahmed/Imágenes" alt="Main View" width="optional_width">
+![Main View of the website](https://github.com/Krypter93/free-translator/blob/main/image/free%20translator.png?raw=true)
