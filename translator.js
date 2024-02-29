@@ -13,7 +13,6 @@ source.addEventListener("input",()=>{
 	
 	})
 
-
 //Getting available languages
 document.addEventListener("DOMContentLoaded", async()=>{
 const url = 'https://text-translator2.p.rapidapi.com/getLanguages';
