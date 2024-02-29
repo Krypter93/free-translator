@@ -1,1 +1,1 @@
-!["Main view"]("/home/ahmed/Imágenes")
+<img src="/home/ahmed/Imágenes" alt="Main View" width="optional_width">
